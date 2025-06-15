@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20there!%20I'm%20Vincent%20La👋&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1oOHB0eTNqNGk5cG81ZDhnNDB2MzNrdmY5dnJwb3VxOGVnYmlvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" alt="Fun GIF" width="400" />
+<div style="text-align: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1oOHB0eTNqNGk5cG81ZDhnNDB2MzNrdmY5dnJwb3VxOGVnYmlvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" alt="Fun GIF" width="400" />
+</div>
 ---
 
 ## 👨‍💻 About Me
